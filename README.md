@@ -1,29 +1,21 @@
-# project-portfolio
-End-to-end projects showcasing Wilfredo Rodriguez’s transition from telecom product leader to cloud-first architect, featuring real scenarios and delivered outcomes.
+# 📁 Project Portfolio
 
-# 🧩 Project Portfolio
-
-## ✨ Overview
-
-This repository contains complete project case studies and work samples that highlight my career journey from telecom Product Manager to Cloud/AI-driven leader.
+Welcome to my professional project portfolio. This repository showcases real-world project documentation, processes, and outcomes from my work as a Project Manager across telecom, IT, and infrastructure environments.
 
 ---
 
-## 🔧 Contents
+## 🏢 Facility Launch – New Operations Center
 
-- Project 1: Number Migration Framework + Power BI Tracking
-- Project 2: Resporg API Submission & Failover Automation Plan
-- Project 3: Internal Order Workflow Redesign with Change Logs
-- Project 4: Stakeholder Presentation – Strategic Product Plan
+**Objective:** Open a new regional facility with full infrastructure readiness, telecom provisioning, and compliance alignment.
+
+📂 [View Project Folder](./facility-launch)
+
+📌 Includes:
+- Project overview and scope
+- Risk register and vendor strategy
+- Readiness checklist
+- Lessons learned and handoff notes
 
 ---
 
-## 🧠 Themes
-
-`Cloud Migration` | `Telecom Automation` | `Process Design` | `Project Management`
-
----
-
-## 📌 Status
-
-🟢 Actively Updated – New case studies posted monthly
+More project documentation will be added as I continue to grow this portfolio. Stay tuned!
