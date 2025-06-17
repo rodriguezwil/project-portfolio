@@ -48,3 +48,20 @@ project-portfolio/
 ├── visuals/
 │   └── screenshots/
 
+---
+
+## 🎯 Why This Portfolio Matters
+
+These project artifacts reflect real-world execution — not just strategy. Each case study is built on tools I’ve used to manage cross-functional teams, track progress, and deliver scalable telecom and cloud solutions that align with business goals.
+
+By combining stakeholder-focused planning, measurable KPIs, and technical integration, these examples illustrate my value as a **Product & Project Manager** in high-impact environments.
+
+---
+
+## 📫 Contact
+
+**Created by:** Wilfredo Rodriguez  
+[🔗 LinkedIn](https://www.linkedin.com/in/wil-rodriguez) | [📧 Email](mailto:wilrod38@gmail.com)
+
+> “Projects are only as strong as the planning, people, and platforms behind them.”
+
