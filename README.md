@@ -1,4 +1,4 @@
-# 📁 Project Portfolio – Wilfredo Rodriguez
+# 📁 Project Portfolio 
 
 Welcome to my professional project portfolio. This repository showcases real-world deliverables and planning documents that reflect my experience as a **Product & Project Manager** leading initiatives in **telecom modernization**, **cloud transformation**, **cost optimization**, and **infrastructure planning**.
 
